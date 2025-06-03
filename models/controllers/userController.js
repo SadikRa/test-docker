@@ -10,6 +10,7 @@ exports.createUser = async (req, res) => {
   }
 };
 
+
 // Get all users
 exports.getUsers = async (req, res) => {
   try {
