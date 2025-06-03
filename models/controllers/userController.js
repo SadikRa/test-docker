@@ -21,6 +21,7 @@ exports.getUsers = async (req, res) => {
   }
 };
 
+
 // Update user
 exports.updateUser = async (req, res) => {
   try {
